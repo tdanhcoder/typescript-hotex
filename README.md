@@ -1,1 +1,1 @@
-# typescript-hotex
+# Hotex
